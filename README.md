@@ -9,7 +9,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C# | Python | C++
+- 💻 &nbsp; C# | C | C++
 - 🌐 &nbsp; ASP.NET | PHP | HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; MSSQL | MySql | Firebase
 - 🔧 &nbsp; Visual Studio |  Visual Studio code
